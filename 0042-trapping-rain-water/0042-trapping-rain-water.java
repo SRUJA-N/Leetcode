@@ -9,7 +9,9 @@ class Solution {
         {
             leftmax=Math.max(leftmax,height[left]);
             rightmax=Math.max(rightmax,height[right]);
-            if(leftmax<rightmax){
+
+            if(leftmax<rightmax)
+            {
                 count+=leftmax-height[left];
                 left++;
             }else{
@@ -17,11 +19,10 @@ class Solution {
                 right--;
             }
 
-
-        }
-        return count;
-
+          
 
         
+    }
+    return count;
     }
 }
