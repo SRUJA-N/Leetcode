@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SRUJA-N/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SRUJA-N/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/SRUJA-N/Leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SRUJA-N/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SRUJA-N/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SRUJA-N/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/SRUJA-N/Leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SRUJA-N/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/SRUJA-N/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/SRUJA-N/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
