@@ -11,13 +11,13 @@ class Solution {
             {
                 curr=curr*nums[right];
 
-                while(curr>=k  && left<=right)
+                while(curr>= k && left<=right)
                 {
+                   
                     curr=curr/nums[left];
                     left++;
-                    
                 }
-                count+=(right-left+1);
+                 count+=(right-left)+1;
 
             }
           
