@@ -10,33 +10,26 @@ class Solution {
 
         for(int pivot=0;pivot<nums.length-2;pivot++)
         {   
-           
-            left=pivot+1;
-            right=nums.length-1;
-
-            while(left<right)
-            {
-                current_sum=nums[pivot]+nums[left]+nums[right];
-                if(current_sum==target) 
-                {
+           left=pivot+1;
+           right=nums.length-1;
+           while(left<right)
+           {
+                current_sum=nums[left]+nums[right]+nums[pivot];
+                if(current_sum==target){
                     return current_sum;
                 }
 
-                if(Math.abs(closest-target)>Math.abs(current_sum-target)){
+                if(Math.abs(current_sum-target)<Math.abs(closest-target))
+                {
                     closest=current_sum;
-
                 }
-
                 if(current_sum>target){
                     right--;
                 }else{
                     left++;
                 }
-
-                
-                
-            }
-
+           }
+            
             
         }
         return closest;
