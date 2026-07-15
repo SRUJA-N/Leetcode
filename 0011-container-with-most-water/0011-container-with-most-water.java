@@ -5,15 +5,13 @@ class Solution {
         int result=0;
         while(left<right)
         {
-            int h=Math.min(height[left],height[right]);
-            int curr=(right-left)*(h);
-            result=Math.max(result,curr);
-            if(height[left]<height[right])
-            {
-                left++;
-            }else{
-                right--;
-            }
+          int area=(right-left)*Math.min(height[left],height[right]);
+          result=Math.max(result,area);
+          if(height[left]>height[right]){
+            right--;
+          }else{
+            left++;
+          }
 
         }
         return result;
