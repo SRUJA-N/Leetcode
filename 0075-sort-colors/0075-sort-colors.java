@@ -4,19 +4,20 @@ class Solution {
         
         while(mid<=right){
             
-            if(nums[mid]==0){
+            if(nums[mid]==2){
+                swap(nums,mid,right);
+                right--;
+            
+                
+            }else if(nums[mid]==0){
                 swap(nums,mid,left);
                 left++;
                 mid++;
-            }else if(nums[mid]==2){
-                swap(nums,mid,right);
-                right--;
-                
-
+            
             }else{
                 mid++;
             }
-
+            
             
         }
 
