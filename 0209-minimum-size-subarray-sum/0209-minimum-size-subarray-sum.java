@@ -10,7 +10,7 @@ class Solution {
             
             while(sum>=target)
             {
-                res=Math.min((high-low),res);
+                res=Math.min((high-low+1),res);
                 sum=sum-nums[low];
                 low++;
 
@@ -18,7 +18,7 @@ class Solution {
             high++;
 
         }
-        return res == Integer.MAX_VALUE ? 0 : res+1;
+        return res == Integer.MAX_VALUE ? 0 : res;
 
 
     }
