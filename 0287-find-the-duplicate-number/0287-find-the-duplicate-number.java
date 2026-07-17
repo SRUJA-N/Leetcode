@@ -6,13 +6,13 @@ class Solution {
             slow=nums[slow];
             fast=nums[fast];
             fast=nums[fast];
-            if(nums[slow]==nums[fast]){
+            if(slow==fast){
                 slow=0;
-                while(nums[slow]!=nums[fast]){
+                while(slow!=fast){
                     fast=nums[fast];
                     slow=nums[slow];
                 }
-                return nums[slow];
+                return slow;
             }
         }
        
