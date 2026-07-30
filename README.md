@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/SRUJA-N/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/SRUJA-N/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/SRUJA-N/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1248-count-number-of-nice-subarrays](https://github.com/SRUJA-N/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/SRUJA-N/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Hash Table
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/SRUJA-N/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/SRUJA-N/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SRUJA-N/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/SRUJA-N/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Sliding Window
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/SRUJA-N/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/SRUJA-N/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/SRUJA-N/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [1248-count-number-of-nice-subarrays](https://github.com/SRUJA-N/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/SRUJA-N/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/SRUJA-N/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SRUJA-N/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/SRUJA-N/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Greedy
 |  |
 | ------- |
@@ -168,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/SRUJA-N/Leetcode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/SRUJA-N/Leetcode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/SRUJA-N/Leetcode/tree/master/0202-happy-number) |
+| [1248-count-number-of-nice-subarrays](https://github.com/SRUJA-N/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SRUJA-N/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
 |  |
