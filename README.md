@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/SRUJA-N/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/SRUJA-N/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/SRUJA-N/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0560-subarray-sum-equals-k](https://github.com/SRUJA-N/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/SRUJA-N/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/SRUJA-N/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SRUJA-N/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/SRUJA-N/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/SRUJA-N/Leetcode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/SRUJA-N/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/SRUJA-N/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/SRUJA-N/Leetcode/tree/master/0904-fruit-into-baskets) |
 ## Sliding Window
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SRUJA-N/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/SRUJA-N/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/SRUJA-N/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 ## Greedy
 |  |
