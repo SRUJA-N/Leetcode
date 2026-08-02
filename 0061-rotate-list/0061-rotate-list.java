@@ -19,23 +19,20 @@ class Solution {
             cur=cur.next;
             length+=1;
         }
-         k=k%length;
+        k=k%length;
         if(k==0){
             return head;
         }
- ListNode last=head;
-        for(int i=0;i<k;i++){
-            ListNode prev=null;
-             last=head;
-            while(last.next!=null){
-                prev=last;
-                last=last.next;
-                
-            }
-            last.next=head;
-            prev.next=null;
-            head=last;
+        
+    
+       ListNode end=head;
+        for(int i=0;i<length-k-1;i++){
+            
+            end=end.next;
         }
+           ListNode last=end.next;
+        end.next=null;
+        cur.next=head;
 
         return last;
     }
