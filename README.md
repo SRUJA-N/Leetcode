@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SRUJA-N/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/SRUJA-N/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SRUJA-N/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/SRUJA-N/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Array
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/SRUJA-N/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0207-course-schedule](https://github.com/SRUJA-N/Leetcode/tree/master/0207-course-schedule) |
 ## Graph Theory
 |  |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/SRUJA-N/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SRUJA-N/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/SRUJA-N/Leetcode/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/SRUJA-N/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/SRUJA-N/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/SRUJA-N/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SRUJA-N/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
