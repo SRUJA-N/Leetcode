@@ -8,30 +8,36 @@
  * }
  */
 class Solution {
-    TreeNode ans=null;
-    public int helper(TreeNode root,TreeNode p,TreeNode q)
-    {
-        if(root==null){
-            return 0;
-        }
-        int left=helper(root.left,p,q);
-        int right=helper(root.right,p,q);
-        int self=0;
-        if(root==p || root==q){
-            self=1;
-        }
-        int total=left+right+self;
-
-        if(total==2 && ans==null){
-            this.ans=root;
-            
-        }
-        return total;
-
-    }
+    
+    
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-        int n=helper(root,p,q);
-        return this.ans;
+        if(root==null){
+            return null;
 
+        }
+        if(root==q){
+            return q;
+        }
+        if(root==p){
+            return p;
+        }
+        
+        TreeNode left=lowestCommonAncestor(root.left,p,q);
+        TreeNode right=lowestCommonAncestor(root.right,p,q);
+
+        if(left!=null && right!=null){
+            return root;
+        }
+
+        if(left==null && right==null){
+            return null;
+        }
+        if(left!=null && right==null){
+            return left;
+        }
+        if(right!=null && left==null){
+            return right;
+        }
+        return null;
     }
 }
