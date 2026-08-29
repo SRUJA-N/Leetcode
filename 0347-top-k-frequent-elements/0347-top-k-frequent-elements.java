@@ -9,7 +9,7 @@ class Solution {
    }
     public int[] topKFrequent(int[] nums, int k) {
         HashMap<Integer,Integer> map=new HashMap<>();
-        PriorityQueue<Pair> minheap=new PriorityQueue<>((a,b)-> a.frequency-b.frequency );
+        PriorityQueue<Pair> minheap=new PriorityQueue<>((a,b)->Integer.compare(a.frequency,b.frequency) );
        
         for(int num:nums){
             map.merge(num,1,Integer::sum);
