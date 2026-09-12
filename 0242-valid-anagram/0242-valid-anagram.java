@@ -3,16 +3,16 @@ class Solution {
         if(s.length()!=t.length()){
             return false;
         }
-        HashMap<Character,Integer> map=new HashMap<>();
-        for(int i=0;i<s.length();i++){
-            char c=s.charAt(i);
-            char d=t.charAt(i);
-           map.merge(c,1,Integer::sum);
-           map.merge(d,-1,Integer::sum);
-        }
-        for(Integer values:map.values())
+
+        int[] count=new int[26];
+
+        for(int i=0;i<s.length();i++)
         {
-            if(values!=0){
+            count[s.charAt(i)-'a']++;
+            count[t.charAt(i)-'a']--;
+        }
+        for(int num:count){
+            if(num!=0){
                 return false;
             }
         }
