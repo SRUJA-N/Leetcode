@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/SRUJA-N/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/SRUJA-N/Leetcode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/SRUJA-N/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/SRUJA-N/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/SRUJA-N/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/SRUJA-N/Leetcode/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/SRUJA-N/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SRUJA-N/Leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/SRUJA-N/Leetcode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/SRUJA-N/Leetcode/tree/master/0134-gas-station) |
 | [0409-longest-palindrome](https://github.com/SRUJA-N/Leetcode/tree/master/0409-longest-palindrome) |
 | [0502-ipo](https://github.com/SRUJA-N/Leetcode/tree/master/0502-ipo) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SRUJA-N/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/SRUJA-N/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/SRUJA-N/Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/SRUJA-N/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SRUJA-N/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/SRUJA-N/Leetcode/tree/master/0152-maximum-product-subarray) |
