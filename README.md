@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/SRUJA-N/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/SRUJA-N/Leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/SRUJA-N/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/SRUJA-N/Leetcode/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SRUJA-N/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/SRUJA-N/Leetcode/tree/master/0733-flood-fill) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/SRUJA-N/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SRUJA-N/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SRUJA-N/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SRUJA-N/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/SRUJA-N/Leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/SRUJA-N/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SRUJA-N/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/SRUJA-N/Leetcode/tree/master/0455-assign-cookies) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SRUJA-N/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/SRUJA-N/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/SRUJA-N/Leetcode/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/SRUJA-N/Leetcode/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/SRUJA-N/Leetcode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/SRUJA-N/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SRUJA-N/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -563,4 +566,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/SRUJA-N/Leetcode/tree/master/0141-linked-list-cycle) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/SRUJA-N/Leetcode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/SRUJA-N/Leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
