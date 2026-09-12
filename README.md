@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/SRUJA-N/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/SRUJA-N/Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/SRUJA-N/Leetcode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/SRUJA-N/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/SRUJA-N/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SRUJA-N/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/SRUJA-N/Leetcode/tree/master/0143-reorder-list) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/SRUJA-N/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/SRUJA-N/Leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/SRUJA-N/Leetcode/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/SRUJA-N/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/SRUJA-N/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/SRUJA-N/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SRUJA-N/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
