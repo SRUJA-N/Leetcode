@@ -508,4 +508,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/SRUJA-N/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/SRUJA-N/Leetcode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/SRUJA-N/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/SRUJA-N/Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/SRUJA-N/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
