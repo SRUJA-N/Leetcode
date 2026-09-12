@@ -10,7 +10,7 @@ class Solution {
         List<int[]> res = new ArrayList<>();
         int end2;
         int start2;
-        for(int i=0;i<intervals.length;i++)
+        for(int i=1;i<intervals.length;i++)
         {
             start2=intervals[i][0];
             end2=intervals[i][1];
