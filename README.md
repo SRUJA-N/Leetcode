@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/SRUJA-N/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/SRUJA-N/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SRUJA-N/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1572-matrix-diagonal-sum](https://github.com/SRUJA-N/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/SRUJA-N/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SRUJA-N/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SRUJA-N/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0733-flood-fill](https://github.com/SRUJA-N/Leetcode/tree/master/0733-flood-fill) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/SRUJA-N/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/SRUJA-N/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
