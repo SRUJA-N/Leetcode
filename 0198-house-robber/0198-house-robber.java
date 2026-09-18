@@ -1,13 +1,33 @@
 class Solution {
-    public int rob(int[] nums) {
-        int rob=0;
-        int norob=0;
-        for(int i=0;i<nums.length;i++){
-            int newrob=norob+nums[i];
-            int newnorob=Math.max(norob,rob);
-            rob=newrob;
-            norob=newnorob;
+    public int helper(int[] nums,int i,int n,int[] dp){
+        if(i>=n){
+            return 0;
         }
-        return Math.max(rob,norob);
+        if(dp[i]!=-1){
+            return dp[i];
+        }
+          
+        int rob=nums[i]+helper(nums,i+2,n,dp);
+        int skip=helper(nums,i+1,n,dp);
+       
+        dp[i]= Math.max(rob,skip);
+        return dp[i];
+
+        
+
+        
+        
+
+
+
+
+
+    }
+    public int rob(int[] nums) {
+       int n = nums.length;
+        int[] dp = new int[n];
+         Arrays.fill(dp, -1);
+         return helper(nums,0,nums.length,dp);
+
     }
 }
