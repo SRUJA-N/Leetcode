@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/SRUJA-N/Leetcode/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SRUJA-N/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/SRUJA-N/Leetcode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/SRUJA-N/Leetcode/tree/master/0743-network-delay-time) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/SRUJA-N/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -221,10 +222,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/SRUJA-N/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SRUJA-N/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/SRUJA-N/Leetcode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/SRUJA-N/Leetcode/tree/master/0743-network-delay-time) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/SRUJA-N/Leetcode/tree/master/0207-course-schedule) |
+| [0743-network-delay-time](https://github.com/SRUJA-N/Leetcode/tree/master/0743-network-delay-time) |
 ## Topological Sort
 |  |
 | ------- |
@@ -502,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0630-course-schedule-iii](https://github.com/SRUJA-N/Leetcode/tree/master/0630-course-schedule-iii) |
 | [0658-find-k-closest-elements](https://github.com/SRUJA-N/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/SRUJA-N/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0743-network-delay-time](https://github.com/SRUJA-N/Leetcode/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/SRUJA-N/Leetcode/tree/master/0767-reorganize-string) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/SRUJA-N/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Quickselect
@@ -623,4 +627,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SRUJA-N/Leetcode/tree/master/0169-majority-element) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/SRUJA-N/Leetcode/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/SRUJA-N/Leetcode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
