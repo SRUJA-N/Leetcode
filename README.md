@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/SRUJA-N/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/SRUJA-N/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/SRUJA-N/Leetcode/tree/master/0057-insert-interval) |
+| [0064-minimum-path-sum](https://github.com/SRUJA-N/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/SRUJA-N/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/SRUJA-N/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/SRUJA-N/Leetcode/tree/master/0078-subsets) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/SRUJA-N/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/SRUJA-N/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/SRUJA-N/Leetcode/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/SRUJA-N/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/SRUJA-N/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SRUJA-N/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/SRUJA-N/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/SRUJA-N/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/SRUJA-N/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/SRUJA-N/Leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SRUJA-N/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
